@@ -1,5 +1,11 @@
 Single Channel LoRaWAN Gateway
 ==============================
+
+This is the repository downloaded from https://github.com/hallard/single_chan_pkt_fwd
+A minor change was done in main.cpp to aid my project which is menttioned in main.cpp file
+I do not hold any ownership for this repository and all the credits goes to the developer of the parent repository https://github.com/hallard/single_chan_pkt_fwd
+
+
 This repository contains a proof-of-concept implementation of a single
 channel LoRaWAN gateway.
 
